@@ -1,1 +1,3 @@
 # Benin-Citizens-Opinions-Analysis
+## Summary
+Benin-Citizens-Opinions-Analysis is a personal project focused on analyzing public opinions in Benin. The project involves collecting and processing data from various sources, such as social media, surveys, or online forums, to gain insights into the perspectives and sentiments of Benin's citizens on various social, political, and economic issues. Data analysis techniques such as natural language processing (NLP) and sentiment analysis are applied to identify trends and opinions in the collected data.
